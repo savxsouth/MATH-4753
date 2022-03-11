@@ -3,7 +3,7 @@
 #' @param df RIVER, MILE, SPECIES, LENGTH, WEIGHT, DDT
 #' @param species CCATFISH, SMBUFFALO, LMBASS
 #'
-#' @return A plot of Length vs Weight for a Species of fish
+#' @return A plot of Length vs Weight for a Species of Fish
 #' @export
 #'
 #' @examples
