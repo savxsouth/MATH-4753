@@ -1,4 +1,4 @@
-#' Fire damage
+#' Fire damage - Lab 7
 #'
 #' A data set collected concerning home damage from fire
 #'
