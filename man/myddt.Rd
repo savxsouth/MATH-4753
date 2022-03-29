@@ -12,7 +12,7 @@ myddt(df, species)
 \item{species}{CCATFISH, SMBUFFALO, LMBASS}
 }
 \value{
-A plot of Length vs Weight for a Species of fish
+A plot of Length vs Weight for a Species of Fish
 }
 \description{
 Project 1 - myddt()

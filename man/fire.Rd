@@ -3,7 +3,7 @@
 \docType{data}
 \name{fire}
 \alias{fire}
-\title{Fire damage}
+\title{Fire damage - Lab 7}
 \format{
 A data frame with 15 rows and 2 variables:
 \describe{
